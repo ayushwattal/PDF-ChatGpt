@@ -108,7 +108,7 @@ def generate_response(history, query, btn):
 
     for char in result['answer']:
         history[-1][-1] += char
-    return history, n
+    return history, " "
 
 # Function to render a specific page of a PDF file as an image
 def render_file(file):
