@@ -1,6 +1,6 @@
 # PDF-ChatGpt
 
-The PDF Chatbot is an application that allows users to interact with a chatbot and upload PDF files for preview. Users can ask questions or provide input, and the chatbot will generate responses based on the provided information.
+The PDF Chatbot is an application that allows users to upload PDF files and interact with pdf using a chatbot. Users can ask questions or provide input, and the chatbot will generate responses based on the provided information.
 
 ## Technologies Used
 
