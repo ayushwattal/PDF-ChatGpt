@@ -65,5 +65,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 This project is licensed under the [Apache License 2.0](LICENSE).
 
 This application was developed using https://www.analyticsvidhya.com/blog/2023/05/build-a-chatgpt-for-pdfs-with-langchain/
-
 ```
